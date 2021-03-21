@@ -1,0 +1,7 @@
+employee name
+number
+photo
+password
+post
+id
+aadhar/pan
